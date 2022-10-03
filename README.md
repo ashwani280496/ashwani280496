@@ -9,7 +9,9 @@ I develop software, build technical communities, create content and love meeting
 
 
 
-[![Ashwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwani280496&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/ashwani280496/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ashwani280496&&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani280496&layout=compact)](https://github.com/ashwani280496/github-readme-stats)
+
 
 <!-- 
 **ashwani280496/ashwani280496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
